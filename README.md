@@ -1,36 +1,36 @@
-# Hi, I'm Raiane! 👋
+# Olá! Eu sou a Raiane 👋
 
-**Prompt Engineer | LLM Evaluator | Python**
+### Prompt Engineer | Avaliadora de LLMs | Python
 
-I have 1+ year of professional experience working with AI, focusing on prompt engineering, large language model evaluation, and improving AI-generated responses.
+Tenho mais de 1 ano de experiência profissional na área de Inteligência Artificial, com foco em engenharia de prompts, avaliação de modelos de linguagem e melhoria da qualidade de respostas geradas por IA.
 
-I'm passionate about making AI systems more reliable, useful, and aligned with user needs.
+Meu objetivo é contribuir para o desenvolvimento de sistemas de IA mais confiáveis, úteis e alinhados às necessidades dos usuários.
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-- 🤖 Prompt Engineering and LLM Evaluation
-- 📝 AI response quality, instruction following, and consistency
-- 🐍 Python for AI-related tasks and automation
-- 🔍 Testing, analyzing, and improving LLM outputs
-- 📚 Always learning and exploring new AI technologies
+- 🤖 Engenharia de prompts e avaliação de LLMs
+- 🔎 Análise da qualidade, precisão e consistência de respostas de IA
+- 🐍 Python para tarefas relacionadas à IA e automação
+- 📝 Testes, análise e otimização de respostas de modelos de linguagem
+- 📚 Sempre aprendendo e explorando novas tecnologias de IA
 
-## 🛠️ Skills & Tools
+## 🛠️ Tecnologias e habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-0F766E?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Engenharia%20de%20Prompts-7C3AED?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/Avaliação%20de%20LLMs-0F766E?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-![Raiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
-## 🐍 Contribution Snake
+## 🐍 Minhas contribuições
 
-![Contribution Snake](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)
+![Cobrinha de contribuições](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-*Building, learning, and exploring the possibilities of AI, one prompt at a time.* ✨
+✨ Explorando, aprendendo e construindo soluções com Inteligência Artificial, um prompt de cada vez.
